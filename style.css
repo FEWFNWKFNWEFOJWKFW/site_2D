@@ -20,15 +20,6 @@
     font-size: 0px;
     }
     
-    
-    .apresentaçao_trabalho{
-    background-image: linear-gradient(#ff7e7e,#ff7e7e);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 30px 0;
-    }
-    
     .titulo_apresentaçao_trabalho{
     font-size: 30px;
     }
