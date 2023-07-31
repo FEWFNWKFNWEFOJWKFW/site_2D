@@ -2,6 +2,8 @@
     margin: 0%;
     padding: 0%;
     }
-    
+    .cabeçalho_titulo{
+        font-size: 50px;
+        }
     body{background-color:#ff7e7e;}
     
