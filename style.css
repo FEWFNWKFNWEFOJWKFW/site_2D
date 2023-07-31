@@ -3,27 +3,6 @@
     padding: 0%;
     }
     
-    .cabeçalho{
-    background-color: #ff7e7e;
-    color: rgb(0, 0, 0);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 10px 0;
-    }
-    
-    .cabeçalho_imagem{
-    width: 7%;
-    }
-    
-    .cabeçalho_titulo{
-    font-size: 0px;
-    }
-    
-    .titulo_apresentaçao_trabalho{
-    font-size: 30px;
-    }
-    
     .imagem_arvore{
     width: 30%;
     }
