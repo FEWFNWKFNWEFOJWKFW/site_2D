@@ -1,2 +1,8 @@
 body{background-color:#ff7e7e;}
-    
+.boduy{
+    background-image
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }    
